@@ -1,0 +1,1 @@
+More informations about this code can be found at: http://naki.info/2011/06/pvpgn-and-d2gs-services-installer/
