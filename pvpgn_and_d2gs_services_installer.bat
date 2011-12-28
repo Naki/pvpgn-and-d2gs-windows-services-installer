@@ -45,13 +45,13 @@ set PVPGN_SERVICE="PvPGN"
 set PVPGN_DESCRIPTION="Player vs. Player Gaming Network - Server"
 
 set D2CS_SERVICE="PvPGN - D2CS"
-set D2CS_DESCRIPTION="Diablo II - Closed Character Server"
+set D2CS_DESCRIPTION="Diablo 2 - Closed Character Server"
 
 set D2DBS_SERVICE="PvPGN - D2DBS"
-set D2DBS_DESCRIPTION="Diablo II - DataBase Server"
+set D2DBS_DESCRIPTION="Diablo 2 - DataBase Server"
 
 set D2GS_SERVICE="PvPGN - D2GS"
-set D2GS_DESCRIPTION="Diablo II - Game Server"
+set D2GS_DESCRIPTION="Diablo 2 - Game Server"
 
 set STEPS_COUNT=4
 set CURRENT_STEP=1
